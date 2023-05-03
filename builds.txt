@@ -1,5 +1,5 @@
 name="Rose NEXUS"
-version="0.2.2"
+version="0.2.3"
 url="https://www.dropbox.com/s/w7d4ygedadljwi1/roseNEXUS.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/7n8tq3t5bje7v1p/roseNEXUS_guisettings.zip?dl=1"
