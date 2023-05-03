@@ -13,7 +13,7 @@ info="https://www.dropbox.com/s/jnexhoa7p953cey/roseNEXUS.txt?dl=1"
 description="This build is to install the latest Android build on your Kodi device."
 
 name="Andrew NEXUS"
-version="0.2.2"
+version="0.2.3"
 url="https://www.dropbox.com/s/3dbzxi0t8t0gc91/andrewNEXUS.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/e6gst0bjvpr6h8h/andrewNEXUS_guisettings.zip?dl=1"
