@@ -27,7 +27,7 @@ info="https://www.dropbox.com/s/3lnshgdcm2vd51t/andrewNEXUS.txt?dl=1"
 description="This build is for ONLY Andrews Kodi device."
 
 name="Chris NEXUS"
-version="2.0.9"
+version="2.1.0"
 url="https://www.dropbox.com/s/uimkue1ou3bbfmx/chrisNEXUS.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/jgbgj5mjm8jpgm8/chrisNEXUS_guisettings.zip?dl=1"
